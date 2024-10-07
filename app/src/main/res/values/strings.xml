@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">Assignment 2</string>
-    <string name="todolist">TodoList</string>
-    <string name="enter_task_name">Enter Task Name</string>
-    <string name="save">Save</string>
 </resources>
